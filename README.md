@@ -4,4 +4,4 @@
 ### SOAP
 - to check my SOAP collection please proceed to the following [link](https://www.postman.com/ilyasb87/workspace/my-workspace/collection/35158241-da29dda0-a080-4af0-9795-8046af3834cb?action=share&creator=35158241)
 ### TEST CASES
-- to check my test-cases in QASE please proceed to the following [link](https://github.com/BaizhumartovIlyas/API-Testing/blob/main/G7-2024-06-01.pdf) 
+- to check my test-cases in PDF please proceed to the following [link](https://github.com/BaizhumartovIlyas/API-Testing/blob/main/G7-2024-06-01.pdf) 
